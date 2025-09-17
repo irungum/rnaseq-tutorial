@@ -1,0 +1,16 @@
+# Large reference files
+*.fa
+*.fasta
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
+*.vcf
+
+# Keep important files
+!*.md
+!*.txt
+!*.sh
+!*.py
+!*.R
+!*.gtf
